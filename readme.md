@@ -57,4 +57,4 @@ git push origin main
 - Git에 대해 더 알고 싶다면, [Git 공식 문서](https://git-scm.com/doc)를 확인하세요.
 - GitHub 사용법에 대한 자세한 정보는 [GitHub Docs](https://docs.github.com/en)에서 찾아볼 수 있습니다.
 
-## 좋아하는 음식 : 떡볶이, 밥
+## 좋아하는 음식 : 떡볶이, 밥, 치킨
