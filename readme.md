@@ -1,16 +1,16 @@
-### Git 기초
+# Git 기초
 
 ## 목차
 
-Git이란?
-Git 기본 명령어
-브랜치와 병합
-GitHub 사용
-추가 리소스
+- Git이란?
+- Git 기본 명령어
+- 브랜치와 병합
+- GitHub 사용
+- 추가 리소스
 
 ## Git이란?
 
-Git은 분산형 버전 관리 시스템입니다. 여러 명이 동시에 작업할 수 있도록 코드를 관리하고, 작업 내역을 기록하는 데 사용됩니다.
+**Git**은 분산형 버전 관리 시스템입니다. 여러 명이 동시에 작업할 수 있도록 코드를 관리하고, 작업 내역을 기록하는 데 사용됩니다.
 
 예를 들어, 다음과 같은 상황에서 유용합니다:
 
@@ -22,13 +22,13 @@ Git은 분산형 버전 관리 시스템입니다. 여러 명이 동시에 작�
 
 ## Git 기본 명령어
 
-# 1. Git 저장소 초기화
+### 1. Git 저장소 초기화
 
 `git init`
 
 - 새로운 Git 저장소를 초기화합니다.
 
-# 2. 파일 추가 및 커밋
+### 2. 파일 추가 및 커밋
 
 ```git add <파일명>
 git commit -m "첫 번째 커밋"
@@ -50,7 +50,7 @@ git push origin main
 
 ![Git 로고](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
-### 추가 리소스
+# 추가 리소스
 
-- Git에 대해 더 알고 싶다면, Git 공식 문서(https://git-scm.com/doc)를 확인하세요.
-- GitHub 사용법에 대한 자세한 정보는 GitHub Docs(https://docs.github.com/en)에서 찾아볼 수 있습니다.
+- Git에 대해 더 알고 싶다면, [Git 공식 문서](https://git-scm.com/doc)를 확인하세요.
+- GitHub 사용법에 대한 자세한 정보는 [GitHub Docs](https://docs.github.com/en)에서 찾아볼 수 있습니다.
